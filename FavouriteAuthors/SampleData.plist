@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>800C35446-E83A-44AC-B718-D6408921</string>
+		<key>name</key>
+		<string>Albert Camus</string>
+		<key>searchKey</key>
+		<string>1</string>
+		<key>rating</key>
+		<real>3.5</real>
+		<key>imageName</key>
+		<string>Camus.png</string>
+		<key>lastRead</key>
+		<date>2014-06-19T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>4</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>5EDAA810-3A9F-4A53-A837-87B7F7A5BNFNFNFC</string>
+		<key>name</key>
+		<string>Emil Cioran</string>
+		<key>searchKey</key>
+		<string>2</string>
+		<key>rating</key>
+		<real>1.2</real>
+		<key>imageName</key>
+		<string>Cioran.png</string>
+		<key>lastRead</key>
+		<date>2018-06-16T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>2</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>C11591E2-44E5-41A8-8B92-0BE37CD08D00</string>
+		<key>name</key>
+		<string>Fyodor Dostoyevsky</string>
+		<key>searchKey</key>
+		<string>3</string>
+		<key>rating</key>
+		<real>4.7</real>
+		<key>imageName</key>
+		<string>Dostoyevsky.png</string>
+		<key>lastRead</key>
+		<date>2018-05-16T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>10</integer>
+		<key>isTopFavourite</key>
+		<true/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>CD3CADD3-29BA-463F-A5E0-D220E6DFFFE46BF</string>
+		<key>name</key>
+		<string>F. Scott Fitzgerald</string>
+		<key>searchKey</key>
+		<string>4</string>
+		<key>rating</key>
+		<real>3.2</real>
+		<key>imageName</key>
+		<string>F. S. Fitzgerald.png</string>
+		<key>lastRead</key>
+		<date>2018-06-19T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>4</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>05CA94DE-0AHGVD8-45D1-A58F-1E0F8011A6B9</string>
+		<key>name</key>
+		<string>J.D. Salinger</string>
+		<key>searchKey</key>
+		<string>5</string>
+		<key>rating</key>
+		<real>1.2</real>
+		<key>imageName</key>
+		<string>J.D. Salinger.png</string>
+		<key>lastRead</key>
+		<date>2018-04-19T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>2</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>AB696767661B-447B-4055-8BE4-409BB4F4ED77</string>
+		<key>name</key>
+		<string>Friedrich Nietzsche</string>
+		<key>searchKey</key>
+		<string>6</string>
+		<key>rating</key>
+		<real>2.2</real>
+		<key>imageName</key>
+		<string>Nietzsche.png</string>
+		<key>lastRead</key>
+		<date>2014-05-19T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>2</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>25A2E7889B8E-59D2-4905-812A-ACD57D644BA0</string>
+		<key>name</key>
+		<string>Walt Withman</string>
+		<key>searchKey</key>
+		<string>7</string>
+		<key>rating</key>
+		<real>4</real>
+		<key>imageName</key>
+		<string>W. Withman.png</string>
+		<key>lastRead</key>
+		<date>2014-05-29T18:15:24Z</date>
+		<key>booksRead</key>
+		<integer>7</integer>
+		<key>isTopFavourite</key>
+		<false/>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bow_tie</string>
+	</dict>
+</array>
+</plist>

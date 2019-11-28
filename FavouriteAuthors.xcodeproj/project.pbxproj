@@ -14,6 +14,10 @@
 		49B2003E238EBDF300A02482 /* FavouriteAuthors.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 49B2003C238EBDF300A02482 /* FavouriteAuthors.xcdatamodeld */; };
 		49B20040238EBDF400A02482 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49B2003F238EBDF400A02482 /* Assets.xcassets */; };
 		49B20043238EBDF400A02482 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49B20041238EBDF400A02482 /* LaunchScreen.storyboard */; };
+		49B2004B238FD8F900A02482 /* SampleData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 49B2004A238FD8F900A02482 /* SampleData.plist */; };
+		49B2004E238FF72000A02482 /* Author+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B2004C238FF72000A02482 /* Author+CoreDataClass.swift */; };
+		49B2004F238FF72000A02482 /* Author+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B2004D238FF72000A02482 /* Author+CoreDataProperties.swift */; };
+		49B2005123901D0500A02482 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B2005023901D0500A02482 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		49B2003F238EBDF400A02482 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49B20042238EBDF400A02482 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49B20044238EBDF400A02482 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49B2004A238FD8F900A02482 /* SampleData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SampleData.plist; sourceTree = "<group>"; };
+		49B2004C238FF72000A02482 /* Author+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Author+CoreDataClass.swift"; sourceTree = "<group>"; };
+		49B2004D238FF72000A02482 /* Author+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Author+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		49B2005023901D0500A02482 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,8 @@
 		49B20032238EBDF300A02482 /* FavouriteAuthors */ = {
 			isa = PBXGroup;
 			children = (
+				49B2004C238FF72000A02482 /* Author+CoreDataClass.swift */,
+				49B2004D238FF72000A02482 /* Author+CoreDataProperties.swift */,
 				49B20033238EBDF300A02482 /* AppDelegate.swift */,
 				49B20035238EBDF300A02482 /* SceneDelegate.swift */,
 				49B20037238EBDF300A02482 /* ViewController.swift */,
@@ -65,7 +75,9 @@
 				49B2003F238EBDF400A02482 /* Assets.xcassets */,
 				49B20041238EBDF400A02482 /* LaunchScreen.storyboard */,
 				49B20044238EBDF400A02482 /* Info.plist */,
+				49B2004A238FD8F900A02482 /* SampleData.plist */,
 				49B2003C238EBDF300A02482 /* FavouriteAuthors.xcdatamodeld */,
+				49B2005023901D0500A02482 /* Extensions.swift */,
 			);
 			path = FavouriteAuthors;
 			sourceTree = "<group>";
@@ -130,6 +142,7 @@
 			files = (
 				49B20043238EBDF400A02482 /* LaunchScreen.storyboard in Resources */,
 				49B20040238EBDF400A02482 /* Assets.xcassets in Resources */,
+				49B2004B238FD8F900A02482 /* SampleData.plist in Resources */,
 				49B2003B238EBDF300A02482 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,8 +156,11 @@
 			files = (
 				49B2003E238EBDF300A02482 /* FavouriteAuthors.xcdatamodeld in Sources */,
 				49B20038238EBDF300A02482 /* ViewController.swift in Sources */,
+				49B2004F238FF72000A02482 /* Author+CoreDataProperties.swift in Sources */,
+				49B2004E238FF72000A02482 /* Author+CoreDataClass.swift in Sources */,
 				49B20034238EBDF300A02482 /* AppDelegate.swift in Sources */,
 				49B20036238EBDF300A02482 /* SceneDelegate.swift in Sources */,
+				49B2005123901D0500A02482 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
